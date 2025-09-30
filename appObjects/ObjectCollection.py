@@ -29,7 +29,7 @@ import inspect  # TODO: Remove
 import re
 import logging
 from copy import deepcopy
-from numpy import inf as Inf
+from numpy import Inf
 
 import gettext
 import appTranslation as fcTranslate
